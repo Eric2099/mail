@@ -15,8 +15,3 @@ steps:
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
 
-- bash: send.sh
-  workingDirectory: #
-  displayName: #
-  failOnStderr: #
-  env:  # mapping of environment variables to add

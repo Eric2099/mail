@@ -10,6 +10,7 @@ steps:
 - bash: |
     which bash
     echo Hello $name
+    echo 'hello, this is a vsts testeing 000000000000000000000000000000000000000000007'
   displayName: Multiline Bash script
   env:
     name: Microsoft

@@ -13,7 +13,6 @@ steps:
     which bash
     echo Hello $name
     echo 'hello, this is a vsts testing 000000000000000000000000000000000000000000007'
-    echo "test email 001" | mail -s "test email from vsts" eric_sun@trimble.com
     echo "completed mail send"
   displayName: Hawk777 Bash script
   env:
